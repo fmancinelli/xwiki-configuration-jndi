@@ -1,0 +1,3 @@
+org.xwiki.contrib.configuration.jndi.internal.JNDIConfigurationSource
+900:org.xwiki.contrib.configuration.jndi.internal.XWikiCfgJNDIConfigurationSource
+900:org.xwiki.contrib.configuration.jndi.internal.XWikiPropertiesJNDIConfigurationSource
